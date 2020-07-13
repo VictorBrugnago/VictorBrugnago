@@ -1,16 +1,33 @@
-### Hi there 👋
+## Victor Brugnago
+![visitors](https://visitor-badge.glitch.me/badge?page_id=VictorBrugnago.VictorBrugnago)    ![GitHub followers](https://img.shields.io/github/followers/VictorBrugnago?label=GitHub%20Followers)  ![Linkedin Badge](https://img.shields.io/badge/VictorBrugnago-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/VictorBrugnago/)
 
-<!--
-**VictorBrugnago/VictorBrugnago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![github stats](https://github-readme-stats.vercel.app/api?username=VictorBrugnago&show_icons=true&hide_rank=true)
 
-Here are some ideas to get you started:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Hi, I'm Victor Brugnago, a Computer Engineering Student from Brazil, currently, I'm a Scientific Researcher at Instituto Federal de Mato Grosso 🙍🏽‍♂️. Beside's programming, I enjoy eating food and playing a MMORPG, Real-time Strategy and Turn-based Strategy games.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently studing on Instituto Federal de Mato Grosso (IFMT);
+- 🌱 I’m currently learning C++, MongoDB and Django; 
+- 💬 Ask me about anything, I am happy to help;
+- ⚡️ Fun-Fact: I started programming when I created my own plugins for my Minecraft Server, in 2011;
+- 📝[Resume](http://lattes.cnpq.br/2439519957293998)
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
