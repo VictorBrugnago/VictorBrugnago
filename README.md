@@ -8,7 +8,7 @@ Hi, I'm Victor Brugnago, a Computer Engineering Student from Brazil, currently, 
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently studing on Instituto Federal de Mato Grosso (IFMT);
+- 👨🏽‍💻 I’m currently studying on Instituto Federal de Mato Grosso (IFMT);
 - 🌱 I’m currently learning C++, MongoDB and Django; 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I started programming when I created my own plugins for my Minecraft Server, in 2011;
