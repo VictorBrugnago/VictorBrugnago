@@ -1,5 +1,4 @@
 ## Victor Brugnago
-![visitors](https://visitor-badge.glitch.me/badge?page_id=VictorBrugnago.VictorBrugnago)
 [![GitHub followers](https://img.shields.io/github/followers/VictorBrugnago?label=GitHub%20Followers)](https://github.com/VictorBrugnago?tab=followers)
 [![Linkedin Badge](https://img.shields.io/badge/VictorBrugnago-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-victor-brugnago-de-rezende/)](https://www.linkedin.com/in/joão-victor-brugnago-de-rezende/)
 
