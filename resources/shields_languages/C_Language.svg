@@ -7,6 +7,6 @@
   <g id="Shield" transform="translate(128)">
     <path id="Shield_Principal" data-name="Shield Principal" d="M0,0H369a15,15,0,0,1,15,15v98a15,15,0,0,1-15,15H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" fill="#2e2e2e"/>
     <path id="Icon" d="M15,0H128a0,0,0,0,1,0,0V128a0,0,0,0,1,0,0H15A15,15,0,0,1,0,113V15A15,15,0,0,1,15,0Z" transform="translate(-128)" fill="url(#pattern)"/>
-    <text id="Nome_Ferramenta" data-name="Nome Ferramenta" transform="translate(192.065 77.243)" fill="#fff" font-size="38" font-family="JetBrainsMono-Medium, JetBrains Mono" font-weight="500"><tspan x="-114" y="0">C Language</tspan></text>
+    <text id="Nome_Ferramenta" data-name="Nome Ferramenta" transform="translate(192.065 87.243)" fill="#fff" font-size="56" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-149.297" y="0">C Language</tspan></text>
   </g>
 </svg>
