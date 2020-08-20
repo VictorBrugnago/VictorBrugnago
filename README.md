@@ -33,6 +33,6 @@ Hi, I'm Victor Brugnago, a Computer Engineering Student from Brazil, currently, 
 
 
 <a href="#">
-    <img src="resources/shields_languages/C_Language.svg" alt="C Language" style="vertical-align:top margin:6px 4px">
+    <img src="resources/shields_languages/C_Language.svg" width="128" height="128" alt="C Language" style="vertical-align:top margin:6px 4px">
 </a>  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
