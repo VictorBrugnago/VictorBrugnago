@@ -31,4 +31,8 @@ Hi, I'm Victor Brugnago, a Computer Engineering Student from Brazil, currently, 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+
+<a href="#">
+    <img src="resources/shields_languages/C_Language.svg" alt="C Language" style="vertical-align:top margin:6px 4px">
+</a>  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
