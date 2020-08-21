@@ -4,6 +4,8 @@
 
 <a href="https://github.com/VictorBrugnago/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorBrugnago&layout=compact" />
+</a>
+<a href="https://github.com/VictorBrugnago/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorBrugnago&show_icons=true&hide_rank=true&count_private=true&hide=stars" />
 </a>
 
