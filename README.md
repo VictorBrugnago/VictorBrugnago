@@ -18,17 +18,16 @@ Hi, I'm Victor Brugnago, a Computer Engineering Student from Brazil, currently, 
 **Languages and Tools:**  
 
 <a href="#">
-    <img src="resources/shields/C_Language.svg" width="128" height="128" alt="C Language" style="vertical-align:top margin:6px 4px">
-    <img src="resources/shields/Python_Language.svg" width="128" height="128" alt="Python Language" style="vertical-align:top margin:6px 4px">
-    <img src="resources/shields/Java_Language.svg" width="128" height="128" alt="Java Language" style="vertical-align:top margin:6px 4px">
-    <img src="resources/shields/PostgreSQL.svg" width="128" height="128" alt="Postgre SQL" style="vertical-align:top margin:6px 4px">
-    <img src="resources/shields/LaTeX.svg" width="128" height="128" alt="LaTeX" style="vertical-align:top margin:6px 4px">
-    <img src="resources/shields/MongoDB.svg" width="128" height="128" alt="MongoDB" style="vertical-align:top margin:6px 4px">
-    <img src="resources/shields/Django.svg" width="128" height="128" alt="Django" style="vertical-align:top margin:6px 4px">
-    <img src="resources/shields/Git.svg" width="128" height="128" alt="Git" style="vertical-align:top margin:6px 4px">
-    <img src="resources/shields/Raspberry.svg" width="128" height="128" alt="Raspberry PI" style="vertical-align:top margin:6px 4px">
-    <img src="resources/shields/Windows.svg" width="128" height="128" alt="Windows" style="vertical-align:top margin:6px 4px">
-    <img src="resources/shields/ArchLinux.svg" width="128" height="128" alt="Arch Linux" style="vertical-align:top margin:6px 4px">
-    <img src="resources/shields/Android.svg" width="128" height="128" alt="Android" style="vertical-align:top margin:6px 4px">
-</a>  
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    <img src="resources/C.svg" alt="C Language" style="vertical-align:top; margin:6px 4px">
+    <img src="resources/Python.svg" alt="Python Language" style="vertical-align:top; margin:6px 4px">
+    <img src="resources/Java.svg" alt="Java Language" style="vertical-align:top; margin:6px 4px">
+    <img src="resources/PostgreSQL.svg" alt="Postgre SQL" style="vertical-align:top; margin:6px 4px">
+    <img src="resources/LaTeX.svg" alt="LaTeX" style="vertical-align:top; margin:6px 4px">
+    <img src="resources/MongoDB.svg" alt="MongoDB" style="vertical-align:top; margin:6px 4px">
+    <img src="resources/Django.svg" alt="Django" style="vertical-align:top; margin:6px 4px">
+    <img src="resources/Git.svg" alt="Git" style="vertical-align:top; margin:6px 4px">
+    <img src="resources/Raspberry.svg" alt="Raspberry PI" style="vertical-align:top; margin:6px 4px">
+    <img src="resources/Windows.svg" alt="Windows" style="vertical-align:top; margin:6px 4px">
+    <img src="resources/ArchLinux.svg" alt="Arch Linux" style="vertical-align:top; margin:6px 4px">
+    <img src="resources/Android.svg" alt="Android" style="vertical-align:top; margin:6px 4px">
+</a>
