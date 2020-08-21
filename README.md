@@ -17,22 +17,18 @@ Hi, I'm Victor Brugnago, a Computer Engineering Student from Brazil, currently, 
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-
 <a href="#">
-    <img src="resources/shields_languages/C_Language.svg" width="128" height="128" alt="C Language" style="vertical-align:top margin:6px 4px">
+    <img src="resources/shields/C_Language.svg" width="128" height="128" alt="C Language" style="vertical-align:top margin:6px 4px">
+    <img src="resources/shields/Python_Language.svg.svg" width="128" height="128" alt="C Language" style="vertical-align:top margin:6px 4px">
+    <img src="resources/shields/Java_Language.svg.svg" width="128" height="128" alt="C Language" style="vertical-align:top margin:6px 4px">
+    <img src="resources/shields/PostgreSQL.svg.svg" width="128" height="128" alt="C Language" style="vertical-align:top margin:6px 4px">
+    <img src="resources/shields/LaTeX.svg" width="128" height="128" alt="C Language" style="vertical-align:top margin:6px 4px">
+    <img src="resources/shields/MongoDB.svg" width="128" height="128" alt="C Language" style="vertical-align:top margin:6px 4px">
+    <img src="resources/shields/Django.svg" width="128" height="128" alt="C Language" style="vertical-align:top margin:6px 4px">
+    <img src="resources/shields/Git.svg" width="128" height="128" alt="C Language" style="vertical-align:top margin:6px 4px">
+    <img src="resources/shields/Raspberry.svg" width="128" height="128" alt="C Language" style="vertical-align:top margin:6px 4px">
+    <img src="resources/shields/Windows.svg" width="128" height="128" alt="C Language" style="vertical-align:top margin:6px 4px">
+    <img src="resources/shields/ArchLinux.svg" width="128" height="128" alt="C Language" style="vertical-align:top margin:6px 4px">
+    <img src="resources/shields/Android.svg" width="128" height="128" alt="C Language" style="vertical-align:top margin:6px 4px">
 </a>  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
