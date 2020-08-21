@@ -24,17 +24,17 @@ Hi, I'm Victor Brugnago, a Computer Engineering Student from Brazil, currently, 
 **Languages and Tools:**  
 
 <p align="center">
-    <img src="resources/C.svg" alt="C Language" style="vertical-align:top; margin:6px 4px">
-    <img src="resources/Java.svg" alt="Java" style="vertical-align:top; margin:6px 4px">
-    <img src="resources/Python.svg" alt="Python" style="vertical-align:top; margin:6px 4px">
-    <img src="resources/JavaScript.svg" alt="JavaScript" style="vertical-align:top; margin:6px 4px">
-    <img src="resources/PostgreSQL.svg" alt="Postgre SQL" style="vertical-align:top; margin:6px 4px">
-    <img src="resources/LaTeX.svg" alt="LaTeX" style="vertical-align:top; margin:6px 4px">
-    <img src="resources/MongoDB.svg" alt="MongoDB" style="vertical-align:top; margin:6px 4px">
-    <img src="resources/Django.svg" alt="Django" style="vertical-align:top; margin:6px 4px">
-    <img src="resources/Git.svg" alt="Git" style="vertical-align:top; margin:6px 4px">
-    <img src="resources/Raspberry.svg" alt="Raspberry PI" style="vertical-align:top; margin:6px 4px">
-    <img src="resources/Windows.svg" alt="Windows" style="vertical-align:top; margin:6px 4px">
-    <img src="resources/ArchLinux.svg" alt="Arch Linux" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/VictorBrugnago/VictorBrugnago/update-02/resources/C.svg" alt="C Language" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/VictorBrugnago/VictorBrugnago/update-02/resources/Java.svg" alt="Java" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/VictorBrugnago/VictorBrugnago/update-02/resources/Python.svg" alt="Python" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/VictorBrugnago/VictorBrugnago/update-02/resources/JavaScript.svg" alt="JavaScript" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/VictorBrugnago/VictorBrugnago/update-02/resources/PostgreSQL.svg" alt="Postgre SQL" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/VictorBrugnago/VictorBrugnago/update-02/resources/LaTeX.svg" alt="LaTeX" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/VictorBrugnago/VictorBrugnago/update-02/resources/MongoDB.svg" alt="MongoDB" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/VictorBrugnago/VictorBrugnago/update-02/resources/Django.svg" alt="Django" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/VictorBrugnago/VictorBrugnago/update-02/resources/Git.svg" alt="Git" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/VictorBrugnago/VictorBrugnago/update-02/resources/Raspberry.svg" alt="Raspberry PI" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/VictorBrugnago/VictorBrugnago/update-02/resources/Windows.svg" alt="Windows" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/VictorBrugnago/VictorBrugnago/update-02/resources/ArchLinux.svg" alt="Arch Linux" style="vertical-align:top; margin:6px 4px">
     <img src="https://raw.githubusercontent.com/VictorBrugnago/VictorBrugnago/master/resources/Android.svg" alt="Android" style="vertical-align:top; margin:6px 4px">
 </p>
