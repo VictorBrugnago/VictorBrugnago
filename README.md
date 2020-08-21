@@ -24,17 +24,56 @@ Hi, I'm Victor Brugnago, a Computer Engineering Student from Brazil, currently, 
 **Languages and Tools:**  
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/VictorBrugnago/VictorBrugnago/update-02/resources/C.svg" alt="C Language" style="vertical-align:top; margin:6px 4px">
-    <img src="https://raw.githubusercontent.com/VictorBrugnago/VictorBrugnago/update-02/resources/Java.svg" alt="Java" style="vertical-align:top; margin:6px 4px">
-    <img src="https://raw.githubusercontent.com/VictorBrugnago/VictorBrugnago/update-02/resources/Python.svg" alt="Python" style="vertical-align:top; margin:6px 4px">
-    <img src="https://raw.githubusercontent.com/VictorBrugnago/VictorBrugnago/update-02/resources/JavaScript.svg" alt="JavaScript" style="vertical-align:top; margin:6px 4px">
-    <img src="https://raw.githubusercontent.com/VictorBrugnago/VictorBrugnago/update-02/resources/PostgreSQL.svg" alt="Postgre SQL" style="vertical-align:top; margin:6px 4px">
-    <img src="https://raw.githubusercontent.com/VictorBrugnago/VictorBrugnago/update-02/resources/LaTeX.svg" alt="LaTeX" style="vertical-align:top; margin:6px 4px">
-    <img src="https://raw.githubusercontent.com/VictorBrugnago/VictorBrugnago/update-02/resources/MongoDB.svg" alt="MongoDB" style="vertical-align:top; margin:6px 4px">
-    <img src="https://raw.githubusercontent.com/VictorBrugnago/VictorBrugnago/update-02/resources/Django.svg" alt="Django" style="vertical-align:top; margin:6px 4px">
-    <img src="https://raw.githubusercontent.com/VictorBrugnago/VictorBrugnago/update-02/resources/Git.svg" alt="Git" style="vertical-align:top; margin:6px 4px">
-    <img src="https://raw.githubusercontent.com/VictorBrugnago/VictorBrugnago/update-02/resources/Raspberry.svg" alt="Raspberry PI" style="vertical-align:top; margin:6px 4px">
-    <img src="https://raw.githubusercontent.com/VictorBrugnago/VictorBrugnago/update-02/resources/Windows.svg" alt="Windows" style="vertical-align:top; margin:6px 4px">
-    <img src="https://raw.githubusercontent.com/VictorBrugnago/VictorBrugnago/update-02/resources/ArchLinux.svg" alt="Arch Linux" style="vertical-align:top; margin:6px 4px">
-    <img src="https://raw.githubusercontent.com/VictorBrugnago/VictorBrugnago/master/resources/Android.svg" alt="Android" style="vertical-align:top; margin:6px 4px">
+    
+    <a href="https://github.com/topics/c">
+        <img src="https://raw.githubusercontent.com/VictorBrugnago/VictorBrugnago/update-02/resources/C.svg" alt="C Language" style="vertical-align:top; margin:6px 4px">
+    </a>
+    
+    <a href="https://www.java.com/">
+        <img src="https://raw.githubusercontent.com/VictorBrugnago/VictorBrugnago/update-02/resources/Java.svg" alt="Java" style="vertical-align:top; margin:6px 4px">
+    </a>
+    
+    <a href="https://www.python.org">
+        <img src="https://raw.githubusercontent.com/VictorBrugnago/VictorBrugnago/update-02/resources/Python.svg" alt="Python" style="vertical-align:top; margin:6px 4px">
+    </a>
+    
+    <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript">
+        <img src="https://raw.githubusercontent.com/VictorBrugnago/VictorBrugnago/update-02/resources/JavaScript.svg" alt="JavaScript" style="vertical-align:top; margin:6px 4px">
+    </a>
+    
+    <a href="https://www.postgresql.org">
+        <img src="https://raw.githubusercontent.com/VictorBrugnago/VictorBrugnago/update-02/resources/PostgreSQL.svg" alt="Postgre SQL" style="vertical-align:top; margin:6px 4px">
+    </a>
+    
+    <a href="https://www.latex-project.org">
+        <img src="https://raw.githubusercontent.com/VictorBrugnago/VictorBrugnago/update-02/resources/LaTeX.svg" alt="LaTeX" style="vertical-align:top; margin:6px 4px">
+    </a>
+    
+    <a href="https://www.mongodb.com">
+        <img src="https://raw.githubusercontent.com/VictorBrugnago/VictorBrugnago/update-02/resources/MongoDB.svg" alt="MongoDB" style="vertical-align:top; margin:6px 4px">
+    </a>
+    
+    <a href="https://www.djangoproject.com">
+        <img src="https://raw.githubusercontent.com/VictorBrugnago/VictorBrugnago/update-02/resources/Django.svg" alt="Django" style="vertical-align:top; margin:6px 4px">
+    </a>
+    
+    <a href="https://git-scm.com">
+        <img src="https://raw.githubusercontent.com/VictorBrugnago/VictorBrugnago/update-02/resources/Git.svg" alt="Git" style="vertical-align:top; margin:6px 4px">
+    </a>
+    
+    <a href="https://www.raspberrypi.org">
+        <img src="https://raw.githubusercontent.com/VictorBrugnago/VictorBrugnago/update-02/resources/Raspberry.svg" alt="Raspberry PI" style="vertical-align:top; margin:6px 4px">
+    </a>
+    
+    <a href="https://www.microsoft.com/windows/">
+        <img src="https://raw.githubusercontent.com/VictorBrugnago/VictorBrugnago/update-02/resources/Windows.svg" alt="Windows" style="vertical-align:top; margin:6px 4px">
+    </a>
+    
+    <a href="https://www.archlinux.org">
+        <img src="https://raw.githubusercontent.com/VictorBrugnago/VictorBrugnago/update-02/resources/ArchLinux.svg" alt="Arch Linux" style="vertical-align:top; margin:6px 4px">
+    </a>
+    
+    <a href="https://www.android.com">
+        <img src="https://raw.githubusercontent.com/VictorBrugnago/VictorBrugnago/master/resources/Android.svg" alt="Android" style="vertical-align:top; margin:6px 4px">
+    </a>
 </p>
