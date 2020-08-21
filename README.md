@@ -36,5 +36,5 @@ Hi, I'm Victor Brugnago, a Computer Engineering Student from Brazil, currently, 
     <img src="resources/Raspberry.svg" alt="Raspberry PI" style="vertical-align:top; margin:6px 4px">
     <img src="resources/Windows.svg" alt="Windows" style="vertical-align:top; margin:6px 4px">
     <img src="resources/ArchLinux.svg" alt="Arch Linux" style="vertical-align:top; margin:6px 4px">
-    <img src="resources/Android.svg" alt="Android" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/VictorBrugnago/VictorBrugnago/master/resources/Android.svg" alt="Android" style="vertical-align:top; margin:6px 4px">
 </p>
