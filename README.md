@@ -19,16 +19,16 @@ Hi, I'm Victor Brugnago, a Computer Engineering Student from Brazil, currently, 
 
 <a href="#">
     <img src="resources/shields/C_Language.svg" width="128" height="128" alt="C Language" style="vertical-align:top margin:6px 4px">
-    <img src="resources/shields/Python_Language.svg.svg" width="128" height="128" alt="C Language" style="vertical-align:top margin:6px 4px">
-    <img src="resources/shields/Java_Language.svg.svg" width="128" height="128" alt="C Language" style="vertical-align:top margin:6px 4px">
-    <img src="resources/shields/PostgreSQL.svg.svg" width="128" height="128" alt="C Language" style="vertical-align:top margin:6px 4px">
-    <img src="resources/shields/LaTeX.svg" width="128" height="128" alt="C Language" style="vertical-align:top margin:6px 4px">
-    <img src="resources/shields/MongoDB.svg" width="128" height="128" alt="C Language" style="vertical-align:top margin:6px 4px">
-    <img src="resources/shields/Django.svg" width="128" height="128" alt="C Language" style="vertical-align:top margin:6px 4px">
-    <img src="resources/shields/Git.svg" width="128" height="128" alt="C Language" style="vertical-align:top margin:6px 4px">
-    <img src="resources/shields/Raspberry.svg" width="128" height="128" alt="C Language" style="vertical-align:top margin:6px 4px">
-    <img src="resources/shields/Windows.svg" width="128" height="128" alt="C Language" style="vertical-align:top margin:6px 4px">
-    <img src="resources/shields/ArchLinux.svg" width="128" height="128" alt="C Language" style="vertical-align:top margin:6px 4px">
-    <img src="resources/shields/Android.svg" width="128" height="128" alt="C Language" style="vertical-align:top margin:6px 4px">
+    <img src="resources/shields/Python_Language.svg" width="128" height="128" alt="Python Language" style="vertical-align:top margin:6px 4px">
+    <img src="resources/shields/Java_Language.svg" width="128" height="128" alt="Java Language" style="vertical-align:top margin:6px 4px">
+    <img src="resources/shields/PostgreSQL.svg" width="128" height="128" alt="Postgre SQL" style="vertical-align:top margin:6px 4px">
+    <img src="resources/shields/LaTeX.svg" width="128" height="128" alt="LaTeX" style="vertical-align:top margin:6px 4px">
+    <img src="resources/shields/MongoDB.svg" width="128" height="128" alt="MongoDB" style="vertical-align:top margin:6px 4px">
+    <img src="resources/shields/Django.svg" width="128" height="128" alt="Django" style="vertical-align:top margin:6px 4px">
+    <img src="resources/shields/Git.svg" width="128" height="128" alt="Git" style="vertical-align:top margin:6px 4px">
+    <img src="resources/shields/Raspberry.svg" width="128" height="128" alt="Raspberry PI" style="vertical-align:top margin:6px 4px">
+    <img src="resources/shields/Windows.svg" width="128" height="128" alt="Windows" style="vertical-align:top margin:6px 4px">
+    <img src="resources/shields/ArchLinux.svg" width="128" height="128" alt="Arch Linux" style="vertical-align:top margin:6px 4px">
+    <img src="resources/shields/Android.svg" width="128" height="128" alt="Android" style="vertical-align:top margin:6px 4px">
 </a>  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
