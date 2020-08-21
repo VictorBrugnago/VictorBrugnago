@@ -2,7 +2,10 @@
 [![GitHub followers](https://img.shields.io/github/followers/VictorBrugnago?label=GitHub%20Followers)](https://github.com/VictorBrugnago?tab=followers)
 [![Linkedin Badge](https://img.shields.io/badge/VictorBrugnago-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-victor-brugnago-de-rezende/)](https://www.linkedin.com/in/joão-victor-brugnago-de-rezende/)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=VictorBrugnago&show_icons=true&hide_rank=true)
+<a href="https://github.com/VictorBrugnago/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorBrugnago&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorBrugnago&show_icons=true&hide_rank=true&count_private=true&hide=stars" />
+</a>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hi, I'm Victor Brugnago, a Computer Engineering Student from Brazil, currently, I'm a Scientific Researcher at Instituto Federal de Mato Grosso 🙍🏽‍♂️. Beside's programming, I enjoy eating food and playing a MMORPG, Real-time Strategy and Turn-based Strategy games.
