@@ -15,12 +15,14 @@ Hi, I'm Victor Brugnago, a Computer Engineering Student from Brazil, currently, 
 - ⚡️ Fun-Fact: I started programming when I created my own plugins for my Minecraft Server, in 2011;
 - 📝[Resume](http://lattes.cnpq.br/2439519957293998)
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Languages and Tools:**  
 
-<a href="#">
+<p align="center">
     <img src="resources/C.svg" alt="C Language" style="vertical-align:top; margin:6px 4px">
-    <img src="resources/Python.svg" alt="Python Language" style="vertical-align:top; margin:6px 4px">
-    <img src="resources/Java.svg" alt="Java Language" style="vertical-align:top; margin:6px 4px">
+    <img src="resources/Java.svg" alt="Java" style="vertical-align:top; margin:6px 4px">
+    <img src="resources/Python.svg" alt="Python" style="vertical-align:top; margin:6px 4px">
+    <img src="resources/JavaScript.svg" alt="JavaScript" style="vertical-align:top; margin:6px 4px">
     <img src="resources/PostgreSQL.svg" alt="Postgre SQL" style="vertical-align:top; margin:6px 4px">
     <img src="resources/LaTeX.svg" alt="LaTeX" style="vertical-align:top; margin:6px 4px">
     <img src="resources/MongoDB.svg" alt="MongoDB" style="vertical-align:top; margin:6px 4px">
@@ -30,4 +32,4 @@ Hi, I'm Victor Brugnago, a Computer Engineering Student from Brazil, currently, 
     <img src="resources/Windows.svg" alt="Windows" style="vertical-align:top; margin:6px 4px">
     <img src="resources/ArchLinux.svg" alt="Arch Linux" style="vertical-align:top; margin:6px 4px">
     <img src="resources/Android.svg" alt="Android" style="vertical-align:top; margin:6px 4px">
-</a>
+</p>
