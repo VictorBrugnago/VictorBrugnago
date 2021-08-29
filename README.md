@@ -1,13 +1,22 @@
 ## Victor Brugnago
-[![GitHub followers](https://img.shields.io/github/followers/VictorBrugnago?label=GitHub%20Followers)](https://github.com/VictorBrugnago?tab=followers)
-[![Linkedin Badge](https://img.shields.io/badge/VictorBrugnago-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-victor-brugnago-de-rezende/)](https://www.linkedin.com/in/joão-victor-brugnago-de-rezende/)
+<p align="center">
+        <a href="https://github.com/VictorBrugnago/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorBrugnago&show_icons=true&hide_rank=true&count_private=true&hide=stars&theme=onedark&hide_border=true" />
+    </a>
+    <a href="https://github.com/VictorBrugnago/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorBrugnago&layout=compact&theme=onedark&hide_border=true" />
+    </a>
+</p>
 
-<a href="https://github.com/VictorBrugnago/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorBrugnago&layout=compact" />
-</a>
-<a href="https://github.com/VictorBrugnago/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorBrugnago&show_icons=true&hide_rank=true&count_private=true&hide=stars" />
-</a>
+<p align="center">
+    <a href="https://github.com/VictorBrugnago?tab=followers">
+        <img align="center" src="https://img.shields.io/github/followers/VictorBrugnago?label=GitHub%20Followers" />
+    </a>
+    <a href="https://www.linkedin.com/in/joão-victor-brugnago-de-rezende/">
+        <img align="center" src="https://img.shields.io/badge/VictorBrugnago-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-victor-brugnago-de-rezende/" />
+    </a>
+</p>
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hi, I'm Victor Brugnago, a Computer Engineering Student from Brazil, currently, I'm a Scientific Researcher at Instituto Federal de Mato Grosso 🙍🏽‍♂️. Beside's programming, I enjoy eating food and playing a MMORPG, Real-time Strategy and Turn-based Strategy games.
@@ -15,10 +24,11 @@ Hi, I'm Victor Brugnago, a Computer Engineering Student from Brazil, currently, 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently studying on Instituto Federal de Mato Grosso (IFMT) and I participate in a research group (LAPES - Laboratório de Pesquisa Especiais);
-- 🌱 I’m currently learning Django, Python Pandas (for Data Analysis) and Python Bokeh (for Data Visualization);
-- 💬 Ask me about anything, I'm happy to help;
+- 🌱 I’m currently learning Node.JS, Chart.js, CI/CD (Continuous Integration and Continuous Development) and improving my knowledge in Data Visualization;
+- 💬 Ask me about anything, I'm happy to help :D;
 - ⚡️ Fun-Fact: I started programming when I created my own plugins for my Minecraft Server, in 2011;
-- 📝[Resume](http://lattes.cnpq.br/2439519957293998)
+- 🏆 Latest Personal Achievement: I completed [CCNA1v7 ITN - Introduction to Networks](https://www.linkedin.com/feed/update/urn:li:activity:6837173083187539968/) 🖧
+- 📝[My Curriculum Vitae (CV)](http://lattes.cnpq.br/2439519957293998)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Languages and Tools:**  
@@ -63,4 +73,9 @@ Hi, I'm Victor Brugnago, a Computer Engineering Student from Brazil, currently, 
     <a href="https://www.android.com">
         <img src="https://raw.githubusercontent.com/VictorBrugnago/VictorBrugnago/master/resources/Android.svg" alt="Android" style="vertical-align:top; margin:6px 4px">
     </a>
+</p>
+<p align="center">
+<a href="https://github.com/VictorBrugnago/github-readme-streak-stats">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VictorBrugnago&theme=onedark&hide_border=true" />
+</a>
 </p>
