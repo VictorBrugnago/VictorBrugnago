@@ -28,7 +28,7 @@ Hi, I'm Victor Brugnago, a Computer Engineering Student from Brazil, currently, 
 - 💬 Ask me about anything, I'm happy to help :D;
 - ⚡️ Fun-Fact: I started programming when I created my own plugins for my Minecraft Server, in 2011;
 - 🏆 Latest Personal Achievement: I completed [CCNA1v7 ITN - Introduction to Networks](https://www.linkedin.com/feed/update/urn:li:activity:6837173083187539968/) 🖧
-- 📝[My Curriculum Vitae (CV)](http://lattes.cnpq.br/2439519957293998)
+- 📝[My Academic Curriculum ](http://lattes.cnpq.br/2439519957293998)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Languages and Tools:**  
